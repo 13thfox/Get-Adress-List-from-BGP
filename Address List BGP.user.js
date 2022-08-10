@@ -1,5 +1,8 @@
 // ==UserScript==
 // @name         Address List prefix
+// @namespace    https://13thfox/Get-Adress-List-from-BGP
+// @updateURL    https://github.com/13thfox/Get-Adress-List-from-BGP/blob/d9a0b67288018e8b94f817786637896a42eb74ec/Address%20List%20BGP.user.js
+// @downloadURL  https://github.com/13thfox/Get-Adress-List-from-BGP/blob/d9a0b67288018e8b94f817786637896a42eb74ec/Address%20List%20BGP.user.js
 // @version      0.1
 // @description  Get Adress List from BGP
 // @author       F
